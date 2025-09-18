@@ -19,3 +19,12 @@ String Manipulation
 - split() split string into a Python list
 
 See strings.py for more examples
+
+**Math**
+
+Order of Operations: PEMDAS
+
+- parenthesis
+- exponents
+- multiplication/division
+- addition/subtraction
